@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366225884100",
+    "project_id": "chatbox-fbed7",
+    "storage_bucket": "chatbox-fbed7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366225884100:android:dd8e1136f38ea947271a91",
+        "android_client_info": {
+          "package_name": "com.example.chat_box"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzMhOhNC6tFYKaVjU4XDr7wtIrTvwX_Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
